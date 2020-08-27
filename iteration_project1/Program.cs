@@ -6,7 +6,9 @@ namespace iteration_project1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            for (int q = 0; q < 15; q++ )
+
+            Console.WriteLine($"{q}");
         }
     }
 }
